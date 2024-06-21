@@ -1,0 +1,18 @@
+{
+	"version": "0.2.1",
+	"defaults": {},
+	"configurations": [
+		{
+			"type": "default",
+			"project": "C:\\home\\apps\\Godot_v4.2.2-stable_win64.exe\\Godot_v4.2.2-stable_win64.exe",
+			"name": "Godot Game",
+			"args": [ "--path", "C:\\home\\repos\\breakout3d\\demo" ]
+		},
+		{
+			"type": "default",
+			"project": "C:\\home\\apps\\Godot_v4.2.2-stable_win64.exe\\Godot_v4.2.2-stable_win64.exe",
+			"name": "Godot Editor",
+			"args": [ "C:\\home\\repos\\breakout3d\\demo\\project.godot" ]
+		}
+	]
+}
